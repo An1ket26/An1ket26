@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer from the India, who loves open source, and is currently working at ConvoHub. I work with React, Express,Node and so many other modern web frameworks. I am always learning
+I'm a web developer from India, who loves open source, and is currently working at ConvoHub. I work with React, Express,Node and so many other modern web frameworks. I am always learning
 
 
 ## 🌐 Socials:
