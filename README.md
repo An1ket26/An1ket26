@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a web developer from India, who loves open source, and is currently working at ConvoHub. I work with React, Express,Node and so many other modern web frameworks. I am always learning
-
+Hello there! I'm a passionate and dedicated full-stack developer with a focus on MERN (MongoDB, Express.js, React.js, Node.js) stack development and proficiency in problem-solving using data structures and algorithms (DSA).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-a64223230) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@Aniket_26) 
